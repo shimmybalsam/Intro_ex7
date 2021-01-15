@@ -1,0 +1,46 @@
+shimmy10
+204693352
+Shimon Balsam
+
+
+I discussed the exercise with:
+Gali Lustig and Lab Support.
+
+=============================
+= README for ex7: ex7.py
+=============================
+
+===========================
+=  Description: =
+
+One program containing many different functions which are built so that each
+one/two/three function/s are made to solve a the following problems in a
+recursive manner:
+- Printing all the numbers from a 1 until a given number, both in an ascending
+and descending order.
+- Returning the boolean value of if a given number is prime or not.
+- Returning a list of all the positive divisors of a given number.
+- Returning the exponential sum of a given number, from 0 until a given value.
+- Moving a given number of hoops from a starting pole to a destined pole
+ (Hanoi Towers game).
+- Printing all the possible binary sequences of a given length.
+- Printing all the possible sequences made out of given characters and of a
+  given length, both with repetition of letter and without, and returning a
+  list of all said sequences with no repetitions.
+
+====================================================
+
+==========================================
+= Special Comments =
+
+In the divisors function you specifically asked to return the list in an
+ascending order but as an example you showed a list in a descending order:
+[12 ,6 ,4 ,3 ,2 ,1]
+
+This was very confusing once checking the testers, seeing that originally i
+built my function to fit your example, and had to rewrite it completely once i
+realized your example was false. I'm sure I wasn't the only one.
+Please pay more attention in further assignments, and save us all unneeded
+extra aggravation.
+Thank you
+===========================================
